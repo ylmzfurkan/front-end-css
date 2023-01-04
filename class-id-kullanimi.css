@@ -1,0 +1,35 @@
+/******** Layout ********/
+/* class için .text-red {} */
+/* id için #id-bilgisi {} */
+
+body {background-color: yellow;
+
+}
+.text-red{
+    color: red;
+}
+
+#fs-small{
+    font-size: 16px;
+    color: blueviolet;
+}
+.article-3{
+    color: bisque;
+    font-size: 32px;
+}
+
+#paragraf{
+    color: orangered;
+    font-size: 48px;
+    background-color: blue;
+}
+
+.font-color{
+    color: green;
+    font-size: 56px;
+}
+
+p{
+    color: brown;
+    
+}
