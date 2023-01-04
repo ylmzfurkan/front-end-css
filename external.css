@@ -1,0 +1,20 @@
+h2 {
+    color: red;
+    font-size: 24px;
+}
+h3 {
+    color:blue;
+    font-size: 48px;
+}
+h4 {
+    color: brown;
+    font-size: 96px;
+}
+h5 {
+    color: pink;
+    font-size: 192px;
+}
+p {
+    color: aqua;
+    font-size: 14px;
+}
